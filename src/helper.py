@@ -3,7 +3,7 @@ from langchain.text_splitter import RecursiveCharacterTextSplitter
 from langchain.embeddings import HuggingFaceEmbeddings
 
 
-#Extract Data From the PDF File
+#Extract Data From the PDF File and extracts the contents/texts from pdf
 def load_pdf_file(data):
     loader= DirectoryLoader(data,
                             glob="*.pdf",
