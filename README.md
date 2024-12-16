@@ -1,6 +1,6 @@
 # End-to-end-Medical-Chatbot-Generative-AI
 # here is UI Of this application
-(![Alt text](image.png))
+![Alt text](image.png)
 
 # Table of Contents
 * Overview
@@ -33,7 +33,7 @@ The chatbot uses data extracted from The Gale Encyclopedia of Medicine (3rd Edit
 * Sentence-Transformers: For embedding text and converting medical documents into vectors.
 * Pypdf: To extract data from PDF medical documents (if needed).
 
-## Features : Features
+## Features : 
 * Natural Language Interaction: Uses OpenAI GPT to process user queries and generate human-like responses.
 * Medical Knowledge: Information is sourced from The Gale Encyclopedia of Medicine (3rd Edition), which provides medical details on over 1,750 conditions, treatments, and diseases.
 * Data Extraction: Key medical knowledge is extracted, indexed, and transformed into searchable vectors for integration with Pinecone.
