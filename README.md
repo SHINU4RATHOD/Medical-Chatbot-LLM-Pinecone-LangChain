@@ -1,6 +1,6 @@
 # End-to-end-Medical-Chatbot-Generative-AI
 # here is UI Of this application
-![Alt text]([image.png](https://github.com/SHINU4RATHOD/Medical-Chatbot-LLM-Pinecone-LangChain/blob/main/image.png))
+![Alt text](![Alt text](image.png))
 
 
 # How to run?
