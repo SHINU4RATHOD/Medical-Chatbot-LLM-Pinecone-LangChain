@@ -1,10 +1,10 @@
-sentence-transformers==2.2.2
+sentence-transformers==2.2.2  # pip install --upgrade sentence-transformers
 langchain
 flask
 pypdf
 python-dotenv
 pinecone[grpc]
-langchain-pinecone
+langchain-pinecone  # pip install --upgrade lanchain, and --upgrade langchain-pineocone
 langchain_community
 langchain_openai
 langchain_experimental
