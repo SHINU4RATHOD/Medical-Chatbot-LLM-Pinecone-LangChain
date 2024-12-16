@@ -1,6 +1,6 @@
 # End-to-end-Medical-Chatbot-Generative-AI
 # here is UI Of this application
-![Alt text](![Alt text](image.png)
+(![Alt text](image.png))
 
 # Table of Contents
 * Overview
